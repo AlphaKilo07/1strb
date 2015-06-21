@@ -1,0 +1,103 @@
+body {
+    background-image:url("http://i.imgur.com/r2c4UdG.jpg");
+	background-size:cover;
+}
+
+.nav a {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  text-shadow: #000 0px 0px 1px;
+}
+
+.nav {
+  background-color: #5B5A5E;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://i.imgur.com/FZS3qBd.gif');
+  height: 708px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #2F4F4F;
+  font-size: 48px;  
+  font-family: 'Crimson Text', serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #2F4F4F;
+}
+
+.learn-more {
+  background-color: #5B5A5E;
+  opacity: 0.95;
+}
+
+.learn-more h3 {
+  font-family: 'Crimson Text', serif;
+  font-size: 22px;
+  font-weight: bold;
+  color: #d2d2d2;
+}
+
+.learn-more p {
+	font-size: 18px;
+	color: #d2d2d2;
+	color: #d2d2d2;
+}
+
+ .learn-more a {
+  color: #00b0ff;
+}
+
+.modlist {
+	padding-top: 50px;
+	height: 300px;
+}
+
+.modlist  h3 {
+  font-family: 'Crimson Text', serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: #d2d2d2;	
+}
+
+.modlist a {
+  color: #00b0ff;
+  font-size:18px;
+}
+
+.modlist img{
+	content:url(http://2.bp.blogspot.com/-pBK3gCu0fIs/UAoKXiQhodI/AAAAAAAAAYQ/0EEhp9Mz8Y4/s1600/Forum-header.png);
+	padding-top: 20px;
+	height: 70px;
+}
+
+.modlist .helpdownload {
+padding-top: 100px;
+text-align: center;
+}
+
+.modlist h4 {
+  font-family: 'Crimson Text', serif;
+  font-size: 40px;
+  font-weight: bold;
+  color: #d2d2d2;	
+}
